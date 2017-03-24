@@ -1,0 +1,10 @@
+{
+    "output_html" : true,
+    "open_html_in" : "browser",  // possible values are "browser", "sublime", or "both", default is "browser"
+    "use_css" : true,
+    "charset" : "UTF-8",
+    "use_script" : true,
+    "body_add":" onload=load()",
+    "script_url":"./js4markdown-2016-06-24_171145.js"
+    // "script_url":"D:/htdocs/Review/js/js4markdown-2016-06-24_171145.js"
+}

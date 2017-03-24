@@ -1,0 +1,53 @@
+{
+	//"workingdir": "/home/smile/workspace/SublimeText/SublimeGDB",
+    //"commandline": "gdb --interpreter=mi ./main",
+    //"workingdir": "D:/C",
+    //"commandline": "gdb --interpreter=mi ./1106.exe"
+    "workingdir": "D:/C/Summer/2016-07-25/134830/POJ-3335",
+    "commandline": "gdb --interpreter=mi ./POJ-3335.exe",
+
+    "layout":
+    {
+        "cols": [0.0, 0.33, 0.5, 0.66, 1.0],
+        "rows": [0.0, 0.75, 1.0],
+        "cells":
+        [ // c1 r1 c2 r2
+            [0, 0, 2, 1], // -> (0.00, 0.00), (0.50, 0.75)
+            [0, 1, 1, 2], // -> (0.00, 0.75), (0.33, 1.00)
+            [1, 1, 3, 2], // -> (0.33, 0.75), (0.66, 1.00)
+            [3, 1, 4, 2],  // -> (0.66, 0.75), (1.00, 1.00)
+            [2, 0, 4, 1]  // -> (0.50, 0.00), (1.00, 0.75)
+        ]
+    },
+
+    // The group used for opening files
+    "file_group": 0,
+
+    "session_group": 1,
+    "session_open": true,
+
+    "console_group": 4,
+    "console_open": true,
+
+    "variables_group": 1,
+    "variables_open": true,
+
+    "callstack_group": 2,
+    "callstack_open": true,
+
+    "registers_group": 2,
+    "registers_open": false,
+
+    "disassembly_group": 2,
+    "disassembly_open": false,
+    // Set to "intel" for intel disassembly flavor. All other
+    // values default to using "att" flavor.
+    "disassembly_flavor": "intel",
+
+    "threads_group": 3,
+    "threads_open": true,
+
+    "breakpoints_group": 3,
+    "breakpoints_open": true
+    
+}

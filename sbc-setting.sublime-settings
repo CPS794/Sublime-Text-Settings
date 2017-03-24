@@ -1,0 +1,15 @@
+{
+  // not so good yet
+  "completion_active_list": {
+  	"css-properties": false,
+    "html": false,
+    "javascript": false,
+    "jquery": true,
+    "php": false,
+    "sql": true,
+    "twitter-bootstrap": true,
+    "twitter-bootstrap-less-variables": true,
+    "twitter-bootstrap3": true,
+    "react": false
+  }
+}

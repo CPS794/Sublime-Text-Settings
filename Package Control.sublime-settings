@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"Better Completion",
+		"BracketHighlighter",
+		"C# Compile & Run",
+		"C# Snippets",
+		"C++ Starting Kit",
+		"Clipboard History",
+		"CodeFormatter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"GBK Encoding Support",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"LESS-build",
+		"lessc",
+		"LoremText",
+		"Markdown Preview",
+		"MarkdownBuild",
+		"MarkdownEditing",
+		"Monokai JSON+",
+		"Package Control",
+		"Pascal",
+		"sublime-jslint",
+		"SublimeGDB",
+		"SVN",
+		"Terminal",
+		"TortoiseSVN"
+	]
+}

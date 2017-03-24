@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/sublime-monokai-extended-master/Monokai Extended.tmTheme",
+	// "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	//"font_options": [ "subpixel_antialias", "no_round", "directwrite"],
+	"word_wrap": true,
+	"wrap_width": "",
+	"draw_centered": false,
+	"translate_tabs_to_spaces": false,
+	"line_numbers": true,
+	"highlight_line": true,
+	"font_size": 11
+}

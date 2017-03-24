@@ -1,0 +1,14 @@
+{
+    "cmd": ["javac", "-encoding", "utf-8", "$file"],
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+    "selector": "source.java",
+    "encoding":"utf-8",
+    "variants": 
+    [
+        {
+            "name": "Run", 
+            "shell": true,
+            "cmd" : ["start", "cmd", "/k", "java", "${file_base_name}"] 
+        }
+    ]
+}
